@@ -1,6 +1,6 @@
 # Piano Hoppers
 
-Piano Hoppers a robotics project inspired by UC Berkeley's SALTO robot. 
+Piano Hoppers is a robotics project inspired by UC Berkeley's SALTO robot. 
 
 The vision for this project is to have a swarm (maybe 5 or so) of small jumping robots on a piano, playing a melody. 
 
